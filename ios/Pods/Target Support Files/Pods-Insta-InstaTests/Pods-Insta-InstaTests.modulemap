@@ -1,0 +1,6 @@
+module Pods_Insta_InstaTests {
+  umbrella header "Pods-Insta-InstaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
